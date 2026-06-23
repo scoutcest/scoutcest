@@ -14,8 +14,7 @@ $\color{#913a47}{\textsf{/　　him　　,　　susp borderpolar osddsys 　　�
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ngu3t6dm6zdduut6ctik7y6qri&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=705276&bar_color_cover=false">
   </a>
 </p>
-<a href="https://hits.sh/github.com/scoutcest/hits/"><img alt="Hits" src="https://hits.sh/github.com/scoutcest/hits.svg?style=for-the-badge&label=whats%20up%3F&extraCount=10&color=4d9fcc&labelColor=913a47&logo=nebula" align="right" />
-<br/>
+<a href="https://hits.sh/github.com/scoutcest/hits/"><img alt="Hits" src="https://hits.sh/github.com/scoutcest/hits.svg?style=for-the-badge&label=whats%20up%3F&extraCount=10&color=4d9fcc&labelColor=913a47&logo=nebula" align="center" />
 <br/>
 
 $\color{#4d9fcc}{\textsf{ㅤ>>}}\qquad$  [prnscc](https://pronouns.cc/skwwigelf) $\color{#913a47}{\textsf{◞︶ᐩ}}\qquad$ [main](https://github.com/skwwigelf)
