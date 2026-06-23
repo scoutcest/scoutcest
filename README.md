@@ -18,7 +18,7 @@ $\color{#913a47}{\textsf{/　him　,　susp borderpolar osddsys 　✧}}\qquad$
 <br/>
 <br/>
   
-$\color{#4d9fcc}{\textsf{ㅤ>>}}\qquad$  [prnscc](https://pronouns.cc/skwwigelf) $\color{#913a47}{\textsf{◞︶ᐩ}}\qquad$ [main](https://github.com/skwwigelf)
+$\color{#4d9fcc}{\textsf{ㅤ>>}}\qquad$  [prnscc](https://pronouns.cc/skwigelf) $\color{#913a47}{\textsf{◞︶ᐩ}}\qquad$ [main](https://github.com/skwwigelf)
 
 
 <br>
